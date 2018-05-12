@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9048'
     url: http://www.gutenberg.org/2009/agents/9048
 description: 'Series: Rosy Diamond story books for girls'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20043#The-Angel-Childrenor-Stories-from-Cloud-Land
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2006-12-06'
 gutenberg_type: Text
